@@ -1,11 +1,8 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu Chaudhary</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="AvatarMaker.png"/></a></h1>
-
-
 <div>
     <p>🙋‍♂️ About Me</p>
-    <p>I'm a passionate Web Developer and I am interested in developing new things which excite me a lot.</p>
+    <p>Team player who is courteous and disciplined with proven experience in Web Development at Excellence Technologies, helping companies create and maintain better code base for reusability. Capable of continuous learning from Sr. Developers whilst mentoring other Jr. Developers.</p>
 </div>
 
 - 📫 How to reach me **sudhanshu.licensed@gmail.com**
