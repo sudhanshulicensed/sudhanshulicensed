@@ -17,7 +17,7 @@
     <a href="https://quasar.dev/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" height="48px" width="48px" title="Quasar" /></a>
     <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/vuetify-logo.png" height="48px" width="42px" title="Vuetify" /></a>
-    <a href="https://vuesax.com/"><img src="https://pbs.twimg.com/profile_images/1220313516491649029/cOD4E2wE_400x400.png" title="Vuesax" height="48px" width="42px"/></a>
+    <a href="https://vuesax.com/"><img src="https://www.svgrepo.com/show/327411/logo-vue.svg" title="Vuesax" height="48px" width="42px"/></a>
 </p>
 <br/>
 <!--
