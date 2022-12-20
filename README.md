@@ -17,6 +17,7 @@
     <a href="https://quasar.dev/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" height="48px" width="48px" title="Quasar" /></a>
     <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/vuetify-logo.png" height="48px" width="42px" title="Vuetify" /></a>
+    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDi6oKTFIYKD8ZNeiXva8HPOUL3IOxNv8I95zIvUO_VHn6DpBih3wkf4CEJTuzlFJMMQY&usqp=CAU"></a>
 </p>
 
 <br/>
