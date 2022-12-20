@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu Chaudhary</h1>
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave" width="30px">, I'm Sudhanshu Chaudhary</h1>
 
 <div>
     <p>🙋‍♂️ About Me</p>
