@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave" width="30px">, I'm Sudhanshu Chaudhary</h1>
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu Chaudhary</h1>
 
 <div>
     <p>🙋‍♂️ About Me</p>
@@ -17,7 +17,7 @@
     <a href="https://quasar.dev/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" height="48px" width="48px" title="Quasar" /></a>
     <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/vuetify-logo.png" height="48px" width="42px" title="Vuetify" /></a>
-    <a href="https://vuesax.com/"><img src="https://cdn.worldvectorlogo.com/logos/vuesax-2.svg" title="Vuesax" height="52px" width="52px"/></a>
+    <a href="https://vuesax.com/"><img src="https://cdn.worldvectorlogo.com/logos/vuesax-2.svg" title="Vuesax"/></a>
 </p>
 <br/>
 <!--
