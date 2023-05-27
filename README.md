@@ -2,7 +2,7 @@
 
 <div>
     <p>🙋‍♂️ About Me</p>
-    <p>Team player who is courteous and disciplined with proven experience in Web Development at Excellence Technologies, helping companies create and maintain better code base for reusability. Capable of continuous learning from Sr. Developers whilst mentoring other Jr. Developers.</p>
+    <p>Team player who is courteous and disciplined with proven experience in Web Development (Vue.js), helping companies create and maintain better code base for reusability. Capable of continuous learning from Sr. Developers whilst mentoring other Jr. Developers.</p>
 </div>
 
 - 📫 How to reach me **sudhanshu.licensed@gmail.com**
